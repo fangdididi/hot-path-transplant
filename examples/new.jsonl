@@ -1,0 +1,61 @@
+{"id": 0, "in": ["😀x75"], "out": {"slug": "😀x75", "len": 4}}
+{"id": 1, "in": ["naïve47"], "out": {"slug": "naïve47", "len": 7}}
+{"id": 2, "in": ["ZZZ80"], "out": {"slug": "zzz80", "len": 5}}
+{"id": 3, "in": ["Äpfel77"], "out": {"slug": "äpfel77", "len": 7}}
+{"id": 4, "in": ["apple60"], "out": {"slug": "apple60", "len": 7}}
+{"id": 5, "in": ["70"], "out": {"slug": "70", "len": 2}}
+{"id": 6, "in": ["😀x24"], "out": {"slug": "😀x24", "len": 4}}
+{"id": 7, "in": ["ZZZ69"], "out": {"slug": "zzz69", "len": 5}}
+{"id": 8, "in": ["ZZZ50"], "out": {"slug": "zzz50", "len": 5}}
+{"id": 9, "in": ["naïve29"], "out": {"slug": "naïve29", "len": 7}}
+{"id": 10, "in": ["naïve66"], "out": {"slug": "naïve66", "len": 7}}
+{"id": 11, "in": ["a-b94"], "out": {"slug": "a-b94", "len": 5}}
+{"id": 12, "in": ["apple85"], "out": {"slug": "apple85", "len": 7}}
+{"id": 13, "in": ["Äpfel20"], "out": {"slug": "äpfel20", "len": 7}}
+{"id": 14, "in": ["apple38"], "out": {"slug": "apple38", "len": 7}}
+{"id": 15, "in": ["apple34"], "out": {"slug": "apple34", "len": 7}}
+{"id": 16, "in": ["ZZZ76"], "out": {"slug": "zzz76", "len": 5}}
+{"id": 17, "in": ["naïve42"], "out": {"slug": "naïve42", "len": 8}}
+{"id": 18, "in": ["a-b50"], "out": {"slug": "a-b50", "len": 5}}
+{"id": 19, "in": ["ZZZ17"], "out": {"slug": "zzz17", "len": 5}}
+{"id": 20, "in": ["  12"], "out": {"slug": "12", "len": 4}}
+{"id": 21, "in": ["apple17"], "out": {"slug": "apple17", "len": 7}}
+{"id": 22, "in": ["ZZZ27"], "out": {"slug": "zzz27", "len": 5}}
+{"id": 23, "in": ["86"], "out": {"slug": "86", "len": 2}}
+{"id": 24, "in": ["a-b99"], "out": {"slug": "a-b99", "len": 5}}
+{"id": 25, "in": ["53"], "out": {"slug": "53", "len": 2}}
+{"id": 26, "in": ["a-b73"], "out": {"slug": "a-b73", "len": 5}}
+{"id": 27, "in": ["  68"], "out": {"slug": "68", "len": 4}}
+{"id": 28, "in": ["a-b74"], "out": {"slug": "a-b74", "len": 5}}
+{"id": 29, "in": ["😀x43"], "out": {"slug": "😀x43", "len": 4}}
+{"id": 30, "in": ["apple35"], "out": {"slug": "apple35", "len": 7}}
+{"id": 31, "in": ["naïve89"], "out": {"slug": "naïve89", "len": 7}}
+{"id": 32, "in": ["  69"], "out": {"slug": "69", "len": 4}}
+{"id": 33, "in": ["Äpfel91"], "out": {"slug": "äpfel91", "len": 7}}
+{"id": 34, "in": ["😀x81"], "out": {"slug": "😀x81", "len": 4}}
+{"id": 35, "in": ["36"], "out": {"slug": "36", "len": 2}}
+{"id": 36, "in": ["Äpfel8"], "out": {"slug": "äpfel8", "len": 6}}
+{"id": 37, "in": ["ZZZ81"], "out": {"slug": "zzz81", "len": 5}}
+{"id": 38, "in": ["ZZZ11"], "out": {"slug": "zzz11", "len": 5}}
+{"id": 39, "in": ["  8"], "out": {"slug": "8", "len": 3}}
+{"id": 40, "in": ["a-b19"], "out": {"slug": "a-b19", "len": 5}}
+{"id": 41, "in": ["apple37"], "out": {"slug": "apple37", "len": 7}}
+{"id": 42, "in": ["a-b98"], "out": {"slug": "a-b98", "len": 5}}
+{"id": 43, "in": ["a-b15"], "out": {"slug": "a-b15", "len": 5}}
+{"id": 44, "in": ["apple77"], "out": {"slug": "apple77", "len": 7}}
+{"id": 45, "in": ["apple48"], "out": {"slug": "apple48", "len": 7}}
+{"id": 46, "in": ["  70"], "out": {"slug": "70", "len": 4}}
+{"id": 47, "in": ["64"], "out": {"slug": "64", "len": 2}}
+{"id": 48, "in": ["😀x4"], "out": {"slug": "😀x4", "len": 3}}
+{"id": 49, "in": ["0"], "out": {"slug": "0", "len": 1}}
+{"id": 50, "in": ["Äpfel13"], "out": {"slug": "äpfel13", "len": 7}}
+{"id": 51, "in": ["apple25"], "out": {"slug": "apple25", "len": 7}}
+{"id": 52, "in": ["a-b37"], "out": {"slug": "a-b37", "len": 5}}
+{"id": 53, "in": ["19"], "out": {"slug": "19", "len": 2}}
+{"id": 54, "in": ["apple43"], "out": {"slug": "apple43", "len": 7}}
+{"id": 55, "in": ["  46"], "out": {"slug": "46", "len": 4}}
+{"id": 56, "in": ["naïve48"], "out": {"slug": "naïve48", "len": 7}}
+{"id": 57, "in": ["a-b58"], "out": {"slug": "a-b58", "len": 5}}
+{"id": 58, "in": ["a-b82"], "out": {"slug": "a-b82", "len": 5}}
+{"id": 59, "in": ["Äpfel79"], "out": {"slug": "äpfel79", "len": 7}}
+{"id": 60, "in": [null], "error": "bridge: expected string"}
